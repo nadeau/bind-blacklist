@@ -1,0 +1,6 @@
+$TTL 24h
+
+@ IN SOA my.server. my.email. ( 2012080301 86400 300 604800 3600 )
+@ IN NS my.server.
+@ IN A 127.0.0.1
+* IN A 127.0.0.1
